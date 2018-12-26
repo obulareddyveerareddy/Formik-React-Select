@@ -1,0 +1,25 @@
+{
+  "name": "formik-react-select",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "4.2.1",
+    "carbon-components-react": "5.52.0",
+    "carbon-icons": "7.0.4",
+    "formik": "latest",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "react-select": "2.1.2",
+    "yup": "0.25.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
