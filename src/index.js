@@ -42,7 +42,7 @@ export default class AsyncMulti extends React.Component {
   render() {
     console.log("~~~~~~~~~ ", this.props);
     return (
-      <div style={{ marginTop: "1rem" }}>
+      <div className="mt-1">
         <AsyncSelect
           isMulti
           cacheOptions
